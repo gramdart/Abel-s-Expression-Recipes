@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:slime_ball"
+        },
+        {
+            "item": "expression_core:estradiol_potion_blend"
+        }
+    ],
+    "result": {
+        "id": "expression_core:estradiol_gel"
+    }
+}

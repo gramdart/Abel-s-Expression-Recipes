@@ -1,0 +1,41 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_the_recipe": {
+            "conditions": {
+                "recipe": "expression_core:testosterone_gel"
+            },
+            "trigger": "minecraft:recipe_unlocked"
+        },
+        "has_ingredient_0": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": "expression_core:testosterone_potion_mix"
+                    }
+                ]
+            }
+        },
+        "has_ingredient_1": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": "expression_core:testosterone_gel"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_the_recipe",
+            "has_ingredient_0",
+            "has_ingredient_1"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "expression_core:testosterone_gel"
+        ]
+    }
+}

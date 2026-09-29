@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "x": {
+            "item": "minecraft:slime_ball"
+        }
+    },
+    "pattern": [
+        "xxx"
+    ],
+    "result": {
+        "id": "expression_core:empty_pellets"
+    }
+}

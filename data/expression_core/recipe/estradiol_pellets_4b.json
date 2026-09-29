@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "estradiol_pellets",
+    "ingredients": [
+        {
+            "item": "expression_core:estradiol_pellets_2"
+        },
+        {
+            "item": "expression_core:estradiol_vial"
+        },
+        {
+            "item": "expression_core:estradiol_vial"
+        }
+    ],
+    "result": {
+        "id": "expression_core:estradiol_pellets_4",
+        "count": 1
+    }
+}

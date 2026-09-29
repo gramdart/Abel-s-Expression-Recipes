@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "expression_core:patch_trans"
+        },
+        {
+            "item": "expression_core:testosterone_vial"
+        }
+    ],
+    "result": {
+        "id": "expression_core:testosterone_patch_trans",
+        "count": 1
+    }
+}
