@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "expression_core:potion_blend"
+        },
+        {
+            "item": "expression_core:potion_blend"
+        },
+        {
+            "item": "expression_core:potion_blend"
+        },
+        {
+            "item": "expression_core:potion_blend"
+        },
+        {
+            "item": "expression_core:testosterone_bucket"
+        }
+    ],
+    "result": {
+        "id": "expression_core:testosterone_potion_blend",
+        "count": 4
+    }
+}

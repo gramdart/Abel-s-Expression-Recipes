@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "expression_core:potion_blend"
+        },
+        {
+            "item": "expression_core:potion_blend"
+        },
+        {
+            "item": "expression_core:potion_blend"
+        },
+        {
+            "item": "expression_core:potion_blend"
+        },
+        {
+            "item": "expression_core:spironolactone_bucket"
+        }
+    ],
+    "result": {
+        "id": "expression_core:spironolactone_potion_blend",
+        "count": 4
+    }
+}

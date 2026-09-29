@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "expression_core:estradiol_patch_enby",
+    "expression_core:estradiol_patch_trans",
+    "expression_core:estradiol_patch",
+    "expression_core:estradiol_patch_paw",
+    "expression_core:estradiol_patch_heart",
+    "expression_core:estradiol_patch_genderfluid",
+    "expression_core:estradiol_patch_silly"
+  ]
+}

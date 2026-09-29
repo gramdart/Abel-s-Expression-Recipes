@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "expression_core:testosterone_patch_enby",
+    "expression_core:testosterone_patch_trans",
+    "expression_core:testosterone_patch",
+    "expression_core:testosterone_patch_paw",
+    "expression_core:testosterone_patch_heart",
+    "expression_core:testosterone_patch_genderfluid",
+    "expression_core:testosterone_patch_silly"
+  ]
+}
