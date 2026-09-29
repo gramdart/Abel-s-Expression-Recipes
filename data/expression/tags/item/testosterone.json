@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "#expression:testosterone_patches",
+        "expression_core:testosterone_pill",
+        "expression_core:testosterone_syringe",
+        "expression_core:testosterone_gel",
+        "expression_core:testosterone_bucket",
+        "expression_core:testosterone_vial"
+    ]
+}

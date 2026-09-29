@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        "#expression:estradiol_patches",
+        "expression_core:estradiol_pill",
+        "expression_core:estradiol_pellets",
+        "expression_core:estradiol_pellets_1",
+        "expression_core:estradiol_pellets_2",
+        "expression_core:estradiol_pellets_3",
+        "expression_core:estradiol_pellets_4",
+        "expression_core:estradiol_pellets_5",
+        "expression_core:estradiol_syringe",
+        "expression_core:estradiol_gel",
+        "expression_core:estradiol_bucket",
+        "expression_core:estradiol_vial"
+    ]
+}

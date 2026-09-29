@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "expression_core:progesterone_pill",
+        "expression_core:progesterone_vial",
+        "expression_core:progesterone_bucket"
+    ]
+}

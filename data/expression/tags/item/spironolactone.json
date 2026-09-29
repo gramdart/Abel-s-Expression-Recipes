@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "expression_core:spironolactone_pill",
+        "expression_core:spironolactone_vial",
+        "expression_core:spironolactone_bucket"
+    ]
+}
