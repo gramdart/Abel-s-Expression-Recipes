@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "expression_core:circular_pill_casing"
+        },
+        {
+            "item": "expression_core:circular_pill_casing"
+        },
+        {
+            "item": "expression_core:circular_pill_casing"
+        },
+        {
+            "item": "expression_core:circular_pill_casing"
+        },
+        {
+            "item": "expression_core:progesterone_vial"
+        }
+    ],
+    "result": {
+        "id": "expression_core:progesterone_circular_pill",
+        "count": 4
+    }
+}

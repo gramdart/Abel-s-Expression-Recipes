@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "expression_core:pill_casing"
+        },
+        {
+            "item": "expression_core:pill_casing"
+        },
+        {
+            "item": "expression_core:pill_casing"
+        },
+        {
+            "item": "expression_core:pill_casing"
+        },
+        {
+            "item": "expression_core:testosterone_vial"
+        }
+    ],
+    "result": {
+        "id": "expression_core:testosterone_pill",
+        "count": 4
+    }
+}
