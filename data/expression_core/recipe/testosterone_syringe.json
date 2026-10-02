@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "expression_core:syringe"
+        },
+        {
+            "item": "expression_core:testosterone_vial"
+        }
+    ],
+    "result": {
+        "id": "expression_core:testosterone_syringe",
+        "count": 1
+    }
+}

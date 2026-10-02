@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "expression_core:gender_fluid_bucket"
+        },
+        {
+            "item": "expression_core:vial"
+        },
+        {
+            "item": "expression_core:vial"
+        },
+        {
+            "item": "expression_core:vial"
+        },
+        {
+            "item": "expression_core:vial"
+        }
+    ],
+    "result": {
+        "id": "expression_core:gender_fluid_vial",
+        "count": 4
+    }
+}
