@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "estradiol_pill",
+    "ingredients": [
+        {
+            "item": "expression_core:estradiol_gel"
+        },
+        {
+            "item": "minecraft:slime_ball"
+        }
+    ],
+    "result": {
+        "id": "expression_core:estradiol_pill",
+        "count": 3
+    }
+}

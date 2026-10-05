@@ -1,0 +1,57 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_the_recipe": {
+            "conditions": {
+                "recipe": "expression_core:circular_pill_casing"
+            },
+            "trigger": "minecraft:recipe_unlocked"
+        },
+        "has_ingredient_0": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:slime_ball"
+                    },
+                    {
+                        "items": "minecraft:sugar"
+                    }
+                ]
+            },
+            "trigger": "minecraft:recipe_unlocked"
+        },
+        "has_ingredient_1": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": "expression_core:pill_casing"
+                    }
+                ]
+            },
+            "trigger": "minecraft:recipe_unlocked"
+        },
+        "has_ingredient_2": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": "expression_core:circular_pill_casing"
+                    }
+                ]
+            },
+            "trigger": "minecraft:recipe_unlocked"
+        }
+    },
+    "requirements": [
+        [
+        "has_the_recipe",
+        "has_ingredient_0",
+        "has_ingredient_1",
+        "has_ingredient_2"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "expression_core:circular_pill_casing"
+        ]
+    }
+}

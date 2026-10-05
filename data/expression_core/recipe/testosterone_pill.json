@@ -1,5 +1,6 @@
 {
     "type": "crafting_shapeless",
+    "group": "testosterone_pill",
     "ingredients": [
         {
             "item": "expression_core:pill_casing"

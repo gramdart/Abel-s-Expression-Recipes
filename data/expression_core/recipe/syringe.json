@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "x": {
+            "item": "minecraft:iron_ingot"
+        },
+        "y": {
+            "item": "minecraft:glass"
+        }
+    },
+    "pattern": [
+        " y",
+        "x"
+    ],
+    "result": {
+        "id": "expression_core:syringe",
+        "count": 8
+    }
+}

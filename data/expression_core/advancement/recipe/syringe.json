@@ -1,0 +1,46 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_the_recipe": {
+            "conditions": {
+                "recipe": "expression_core:syringe"
+            },
+            "trigger": "minecraft:recipe_unlocked"
+        },
+        "has_ingredient_0": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:iron_ingot"
+                    },
+                    {
+                        "items": "minecraft:glass"
+                    }
+                ]
+            },
+            "trigger": "minecraft:recipe_unlocked"
+        },
+        "has_ingredient_1": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": "expression_core:syringe"
+                    }
+                ]
+            },
+            "trigger": "minecraft:recipe_unlocked"
+        }
+    },
+    "requirements": [
+        [
+        "has_the_recipe",
+        "has_ingredient_0",
+        "has_ingredient_1"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "expression_core:pill_casing"
+        ]
+    }
+}
