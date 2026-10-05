@@ -6,9 +6,9 @@ This datapack adds recipes for toastydoll's Expression mods. As of version 1.0.0
 ### HRT Methods
 - Patches 🟢
 - Gels 🟢
-- Syringes 🔴
+- Syringes 🟡
 - Pellets 🟢
-- Pills 🔴
+- Pills 🟡
 - Vials 🟢
 ### Blocks
 - Dream Block 🔴
